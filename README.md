@@ -1,6 +1,7 @@
 # K-Means++ & VQ_LBG
 This is the repo for ***Pattern Recognition Course Task 1***, an implement of K-Means++ and VQ_LBG algorithms written in 
 Python. All codes were tested in Ubuntu 18.04.   
+![example](https://github.com/HoraceKem/clustering/blob/master/pics/example.png)
 ## Preparation
  Installing dependency packages may change your packages' version, so it would be a good choice to create a virtual 
  environment.   
